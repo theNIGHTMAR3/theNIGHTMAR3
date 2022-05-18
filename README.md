@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theNIGHTMAR3
+- 👋 Hi, I’m Michał 'NIGHTMARE' Kuprianowicz
 - 👀 I’m interested in games, IT
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
