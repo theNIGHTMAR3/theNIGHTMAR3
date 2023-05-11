@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Michał 'NIGHTMARE' Kuprianowicz
-- 👀 I’m interested in games, IT
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
+- 📖 I'm currently studying IT at Gdańsk University of Technology
+- 👀 I’m interested in gaming, IT, movies, military and gym
 - 📫 How to reach me:
 -   e-mail: michal.kuprianowicz@interia.pl
 -   Discord: NIGHTMARE#3883
