@@ -4,7 +4,6 @@
 - 📫 How to reach me:
 -   e-mail: michal.kuprianowicz@interia.pl
 -   Discord: NIGHTMARE#3883
--   
 
 <!---
 theNIGHTMAR3/theNIGHTMAR3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
