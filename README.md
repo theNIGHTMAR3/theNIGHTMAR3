@@ -2,8 +2,8 @@
 - 📖 I'm currently studying IT at Gdańsk University of Technology
 - 👀 I’m interested in gaming, IT, movies, military and gym
 - 📫 How to reach me:
--   e-mail: michal.kuprianowicz@interia.pl
--   Discord: NIGHTMARE#3883
+  -   e-mail: michal.kuprianowicz@interia.pl
+  -   Discord: the_n1ghtmar3
 
 <!---
 theNIGHTMAR3/theNIGHTMAR3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
